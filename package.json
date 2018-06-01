@@ -1,0 +1,23 @@
+{
+  "name": "ledcontroller",
+  "version": "1.0.0",
+  "description": "Expose a UDP service to control cheap WiFi LED strip controllers (5050)",
+  "main": "index.js",
+  "dependencies": {
+    "log": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msh100/LEDController.git"
+  },
+  "author": "Marcus Hughes <hello@msh100.uk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msh100/LEDController/issues"
+  },
+  "homepage": "https://github.com/msh100/LEDController#readme"
+}
